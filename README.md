@@ -1,2 +1,2 @@
 # Intro
-US GDP bar-chart with using d3 visualization 
+US GDP bar-chart using d3 visualization 
