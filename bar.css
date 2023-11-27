@@ -1,0 +1,17 @@
+#tooltip {
+    position: absolute;
+    background-color: rgba(0, 255, 0, 0.9);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    display: none;
+}
+
+.bar {
+    fill: green;
+    transition: fill 0.2s;
+}
+
+.bar:hover {
+    fill: white;
+}
